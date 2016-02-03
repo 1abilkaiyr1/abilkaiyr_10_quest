@@ -1,0 +1,10 @@
+TEACHER HERE!!! IS USER_CASES
+
+
+
+ACTORS: Student, Admin(Upbringer, Second Director so on.), Director of the Student House
++
++1 Student can click and know his own payments (if have a problem he can call account department) 
++2 Admin can drop any –student which get away from dormitory 
++3 Also student can know his food for month 
++4 Director can know who took keys of any rooms by "Key Access Function"
