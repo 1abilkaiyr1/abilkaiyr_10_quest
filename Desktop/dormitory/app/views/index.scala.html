@@ -1,0 +1,61 @@
+@(message: String)
+
+@main("Welcome to Play") {
+
+	<!--@@message-->
+
+	<h1> Add Students Info here: </h1>
+
+	<form action="@routes.Application.addPerson()" method="post">
+		<table style = "width:100%">
+			<tr>
+				<td>Name</td>
+				<td><input type="text" name = "name"/></td>
+			</tr>
+			<tr>
+				<td>Surname</td>
+				<td><input type="text" name="surname"/></td></tr>
+			<tr>
+				<td>Birthday</td>
+				<td><input type="text" name="birthday"/></td>
+			</tr>
+			<tr>
+				<td>Faculty</td>
+				<td><input type="text" name="faculty"/></td>
+			</tr>
+			<tr>
+				<td>Profession</td>
+				<td><input type="text" name="profession"/></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><button>Add Student</button></td>
+			</tr>
+		</table>
+	</form>
+
+
+
+
+
+<style>
+
+	div{
+		position: fixed;
+	    top: 50%;
+	    left: 50%;
+	    width: 30em;    
+	    margin-top: 10em;
+	    margin-left: -15em;
+	    border: 1px solid #ccc;
+	    background-color: #f3f3f3;
+	    text-align: center;
+	    vertical-align: middle;
+    }
+	</style>
+
+    
+    <div >
+    	<h1>Student house Application</h1>
+    </div>
+}
