@@ -1,0 +1,23 @@
+SoftForce:
+Abay Zhardem
+Askar Baibossynov
+Berik Khamit
+Abilkaiyr Doszhanov
+
+
+
+Lab - 3 Screen Analysis 
+
+1) «State the name of the team member who developed it» They did not state names to each screen who developed, by whom it is done actually
+
+2) «Depict each screen using a small, named, rectangular box» At the end, they did not depicted small boxes and did not write the name for each screen shot.
+
+3) «Label the transitions in the screen flow graph showing what choices/events cause the transition» In the some of screen they did not label the.
+
+
+
+
+2 main benefits to develop A2 screenshots
+
+1) One of the main benefit is that you already build half of your project by planning and writing which button does the following task and so on.
+2) Before start to code, you will know all the task and difficulties that can appear. Not during the coding as usual. 
