@@ -1,0 +1,18 @@
+Lab - 5 from Soft-Force 
+Abai Zhardem
+Asakar Baibossynov
+Berik Khamit
+Abilkaiyr Doszhanov
+
+Task 1:
+Find three problems by Example - 1 of SRS:
+1) Step 3.2, 2b: You said: brief description of the use-case -> include the goal (2-3 sentences). But at the Ex-1 they did not describe all the use-cases. There is only diagram, and they are not understandable.
+2) Step 3.3, 3: You said to use one page for sequence diagram and another for text description, but they used one page for both of them. 
+3) Step 3.2, 2c: You said to make List of Actors, but we could not find any list of actors. We’ve just seen the word ‘User’ and that is all.
+
+
+Task 2:
+Use-case features: 
+Let’s take use-case ‘Send Message’ which stands for admin can send a message to the students of appropriate course, with checkbox admin can select course (for example 2) and send message. And for this operation we need features like:
+Corporative gmail, something like <sdu.dormitory@gmail.com>.
+2)   Message form. Message text field, send button, checkboxes for attaching certain course.
